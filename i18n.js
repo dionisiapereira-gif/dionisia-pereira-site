@@ -126,38 +126,43 @@
       pt: "Hoje concilio, com sucesso, várias colaborações remotas em simultâneo, a experiência mais concreta de que a flexibilidade não custa qualidade.",
       en: "Today I successfully juggle several remote collaborations at once — the clearest proof that flexibility doesn't cost quality."
     },
-    "journey.item1.period": { pt: "Novembro 2024 a atual", en: "November 2024 to present" },
+    "journey.item1.period": { pt: "Setembro 2026 a atual", en: "September 2026 to present" },
     "journey.item1.desc": {
+      pt: "Coordenação de projetos de mobilidade Erasmus+, da candidatura ao acompanhamento dos participantes; gestão de parcerias internacionais, orçamentos e conformidade com os requisitos do programa.",
+      en: "Coordination of Erasmus+ mobility projects, from application to participant support; management of international partnerships, budgets and compliance with programme requirements."
+    },
+    "journey.item2.period": { pt: "Novembro 2024 a Setembro 2026", en: "November 2024 to September 2026" },
+    "journey.item2.desc": {
       pt: "Gestão de hospitalidade dinâmica focada em elevar a satisfação dos hóspedes; operações eficientes e cultura de serviço personalizada; liderança de equipas de alto desempenho.",
       en: "Dynamic hospitality management focused on boosting guest satisfaction; efficient operations and a personalised service culture; leadership of high-performing teams."
     },
-    "journey.item2.period": { pt: "Dezembro 2024 a Agosto 2026", en: "December 2024 to August 2026" },
-    "journey.item2.role": { pt: "Consultora de Comunicação e Marketing", en: "Communication and Marketing Consultant" },
-    "journey.item2.desc": {
+    "journey.item3.period": { pt: "Dezembro 2024 a Agosto 2026", en: "December 2024 to August 2026" },
+    "journey.item3.role": { pt: "Consultora de Comunicação e Marketing", en: "Communication and Marketing Consultant" },
+    "journey.item3.desc": {
       pt: "Produção de conteúdos e gestão de social media e Paid Media; desenvolvimento de estratégias de comunicação e marketing digital, numa colaboração que terminou com a venda da empresa.",
       en: "Content production and management of social media and Paid Media; development of communication and digital marketing strategies, in a collaboration that ended with the company's sale."
     },
-    "journey.item3.period": { pt: "2022 a atual", en: "2022 to present" },
-    "journey.item3.role": { pt: "Community &amp; Social Media Manager, Relações Públicas", en: "Community &amp; Social Media Manager, Public Relations" },
-    "journey.item3.desc": {
+    "journey.item4.period": { pt: "2022 a atual", en: "2022 to present" },
+    "journey.item4.role": { pt: "Community &amp; Social Media Manager, Relações Públicas", en: "Community &amp; Social Media Manager, Public Relations" },
+    "journey.item4.desc": {
       pt: "Gestão de comunidade online, análise de marketing digital, coaching entre pares, mentoria em bem-estar e facilitação de grupos de estudo.",
       en: "Online community management, digital marketing analysis, peer coaching, wellbeing mentoring and study group facilitation."
     },
-    "journey.item4.period": { pt: "Dezembro 2023 a 2024", en: "December 2023 to 2024" },
-    "journey.item4.role": { pt: "Consultora de Comunicação e Marketing", en: "Communication and Marketing Consultant" },
-    "journey.item4.desc": {
+    "journey.item5.period": { pt: "Dezembro 2023 a 2024", en: "December 2023 to 2024" },
+    "journey.item5.role": { pt: "Consultora de Comunicação e Marketing", en: "Communication and Marketing Consultant" },
+    "journey.item5.desc": {
       pt: "Desenvolvimento de estratégias de comunicação e marketing, gestão de redes sociais, relações públicas, copywriting e storytelling de marca.",
       en: "Development of communication and marketing strategies, social media management, public relations, copywriting and brand storytelling."
     },
-    "journey.item5.period": { pt: "Outubro 2008 a Dezembro 2023", en: "October 2008 to December 2023" },
-    "journey.item5.role": { pt: "Diretora de Comunicação e Marketing", en: "Communication and Marketing Director" },
-    "journey.item5.desc": {
+    "journey.item6.period": { pt: "Outubro 2008 a Dezembro 2023", en: "October 2008 to December 2023" },
+    "journey.item6.role": { pt: "Diretora de Comunicação e Marketing", en: "Communication and Marketing Director" },
+    "journey.item6.desc": {
       pt: "Direção estratégica e criativa da marca; organização de eventos internacionais, feiras e congressos; coordenação de lojas e vitrinismo; copywriting.",
       en: "Strategic and creative brand direction; organisation of international events, trade fairs and conferences; store and window-display coordination; copywriting."
     },
-    "journey.item6.period": { pt: "Janeiro 2001 a Setembro 2008", en: "January 2001 to September 2008" },
-    "journey.item6.role": { pt: "Diretora de Marketing", en: "Marketing Director" },
-    "journey.item6.desc": {
+    "journey.item7.period": { pt: "Janeiro 2001 a Setembro 2008", en: "January 2001 to September 2008" },
+    "journey.item7.role": { pt: "Diretora de Marketing", en: "Marketing Director" },
+    "journey.item7.desc": {
       pt: "Direção de marketing e comunicação estratégica; execução do plano de comunicação e marketing; organização de eventos.",
       en: "Strategic marketing and communication direction; execution of the communication and marketing plan; event organisation."
     },
