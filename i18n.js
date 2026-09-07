@@ -131,6 +131,14 @@
       pt: "Coordenação de projetos de mobilidade Erasmus+, da candidatura ao acompanhamento dos participantes; gestão de parcerias internacionais, orçamentos e conformidade com os requisitos do programa.",
       en: "Coordination of Erasmus+ mobility projects, from application to participant support; management of international partnerships, budgets and compliance with programme requirements."
     },
+
+    "journey.itemAL.role": { pt: "Proprietária &amp; Gestora de Alojamento Local", en: "Owner &amp; Short-Term Rental Manager" },
+    "journey.itemAL.period": { pt: "2023 a atual", en: "2023 to present" },
+    "journey.itemAL.desc": {
+      pt: "Proprietária e gestora do Alojamento Local NorteSoul Miramar (registo AL 161706), um apartamento de férias junto à praia em Gulpilhares, Vila Nova de Gaia; gestão de reservas, comunicação com hóspedes e criação do site multilingue da propriedade.",
+      en: "Owner and manager of the NorteSoul Miramar short-term rental licence (AL 161706), a seaside holiday apartment in Gulpilhares, Vila Nova de Gaia; booking management, guest communication and creator of the property's multilingual website."
+    },
+    "journey.itemAL.linkLabel": { pt: "Ver o site da NorteSoul Miramar ↗", en: "Visit the NorteSoul Miramar site ↗" },
     "journey.item2.period": { pt: "Novembro 2024 a Setembro 2026", en: "November 2024 to September 2026" },
     "journey.item2.desc": {
       pt: "Gestão de hospitalidade dinâmica focada em elevar a satisfação dos hóspedes; operações eficientes e cultura de serviço personalizada; liderança de equipas de alto desempenho.",

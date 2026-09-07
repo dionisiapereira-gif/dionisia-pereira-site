@@ -827,6 +827,16 @@ section {
   font-size: var(--text-sm);
   margin-top: 2px;
 }
+.timeline-org a {
+  color: var(--color-primary);
+  font-weight: 600;
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+}
+.timeline-org a:hover,
+.timeline-org a:focus-visible {
+  border-bottom-color: var(--color-primary);
+}
 .timeline-desc {
   margin-top: var(--space-3);
   color: var(--color-text-muted);
