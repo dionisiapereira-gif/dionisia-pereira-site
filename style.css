@@ -705,6 +705,65 @@ section {
   background: var(--color-primary-highlight);
 }
 
+/* ===== Featured portfolio card (NorteSoul Miramar) ===== */
+.portfolio-card--featured {
+  grid-column: 1 / -1;
+  display: grid;
+  grid-template-columns: 1.05fr 1fr;
+  border-color: var(--color-primary);
+  box-shadow: var(--shadow-md);
+}
+.portfolio-card--featured:hover {
+  box-shadow: var(--shadow-lg, var(--shadow-md));
+}
+.portfolio-card--featured .portfolio-image {
+  aspect-ratio: auto;
+  height: 100%;
+  min-height: 320px;
+}
+.portfolio-card--featured .portfolio-body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: var(--space-10);
+}
+.portfolio-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: var(--space-2);
+  align-self: flex-start;
+  background: var(--color-primary);
+  color: var(--color-text-inverse);
+  padding: var(--space-1) var(--space-4);
+  border-radius: var(--radius-full);
+  font-size: var(--text-xs);
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  margin-bottom: var(--space-4);
+}
+.portfolio-card--featured .portfolio-body h3 {
+  font-size: var(--text-2xl, var(--text-xl));
+}
+.portfolio-card--featured .portfolio-body p {
+  font-size: var(--text-base, var(--text-sm));
+  margin-bottom: var(--space-6);
+}
+.portfolio-cta {
+  align-self: flex-start;
+}
+@media (max-width: 760px) {
+  .portfolio-card--featured {
+    grid-template-columns: 1fr;
+  }
+  .portfolio-card--featured .portfolio-image {
+    min-height: 240px;
+  }
+  .portfolio-card--featured .portfolio-body {
+    padding: var(--space-8);
+  }
+}
+
 /* ===== Image Break ===== */
 .image-break {
   position: relative;
@@ -827,15 +886,9 @@ section {
   font-size: var(--text-sm);
   margin-top: 2px;
 }
-.timeline-org a {
-  color: var(--color-primary);
-  font-weight: 600;
-  text-decoration: none;
-  border-bottom: 1px solid transparent;
-}
-.timeline-org a:hover,
-.timeline-org a:focus-visible {
-  border-bottom-color: var(--color-primary);
+.timeline-cta {
+  margin-top: var(--space-3);
+  margin-bottom: var(--space-3);
 }
 .timeline-desc {
   margin-top: var(--space-3);

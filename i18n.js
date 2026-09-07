@@ -175,6 +175,16 @@
       en: "Strategic marketing and communication direction; execution of the communication and marketing plan; event organisation."
     },
 
+    "portfolio.featured.badge": { pt: "Projeto próprio", en: "Own project" },
+    "portfolio.featured.meta": { pt: "NorteSoul Miramar &middot; 2023 a atual", en: "NorteSoul Miramar &middot; 2023 to present" },
+    "portfolio.featured.title": { pt: "NorteSoul Miramar — o meu Alojamento Local à beira-mar", en: "NorteSoul Miramar — my seaside short-term rental" },
+    "portfolio.featured.desc": {
+      pt: "Sou proprietária e gestora deste apartamento de férias em Gulpilhares, Vila Nova de Gaia (registo AL 161706). Criei e giro pessoalmente o site multilingue da propriedade — fotografia, textos e tradução em quatro idiomas — a par da gestão de reservas e da experiência do hóspede do início ao fim.",
+      en: "I own and manage this seaside holiday apartment in Gulpilhares, Vila Nova de Gaia (AL licence 161706). I personally created and run the property's multilingual website — photography, copy and translation into four languages — alongside booking management and the guest experience from start to finish."
+    },
+    "portfolio.featured.cta": { pt: "Visitar o site →", en: "Visit the website →" },
+    "portfolio.featured.imgAlt": { pt: "Piscina e edifício do NorteSoul Miramar, em Gulpilhares", en: "Pool and building of NorteSoul Miramar, in Gulpilhares" },
+
     "portfolio.eyebrow": { pt: "Marcas com quem trabalhei", en: "Brands I've worked with" },
     "portfolio.title": { pt: "Portfólio", en: "Portfolio" },
     "portfolio.lede": {
