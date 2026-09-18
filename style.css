@@ -43,7 +43,7 @@
   --content-default: 980px;
   --content-wide: 1240px;
 
-  --font-display: 'Zodiak', 'Georgia', serif;
+  --font-display: 'Clash Display', 'Helvetica Neue', sans-serif;
   --font-body: 'Satoshi', 'Helvetica Neue', sans-serif;
 }
 
@@ -153,7 +153,9 @@ section {
 }
 .section-title {
   font-family: var(--font-display);
-  font-weight: 500;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: -0.01em;
   font-size: var(--text-xl);
   letter-spacing: -0.01em;
 }
@@ -201,7 +203,9 @@ section {
 .brand-name {
   font-family: var(--font-display);
   font-size: var(--text-lg);
-  font-weight: 500;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.01em;
   letter-spacing: -0.01em;
   line-height: 1;
 }
@@ -356,14 +360,16 @@ section {
 }
 .hero-title {
   font-family: var(--font-display);
-  font-weight: 500;
-  font-size: var(--text-hero);
-  letter-spacing: -0.02em;
+  font-weight: 600;
+  font-size: clamp(2.1rem, 1.15rem + 3.4vw, 3.6rem);
+  letter-spacing: -0.01em;
   line-height: 1.05;
+  text-transform: uppercase;
   color: var(--color-text);
+  max-width: 14ch;
 }
 .hero-title em {
-  font-style: italic;
+  font-style: normal;
   color: var(--color-primary);
 }
 .hero-sub {
@@ -438,9 +444,8 @@ section {
 }
 .portrait-caption strong {
   font-family: var(--font-display);
-  font-style: normal;
   color: var(--color-text);
-  font-weight: 500;
+  font-weight: 600;
   font-size: var(--text-sm);
 }
 
@@ -495,7 +500,7 @@ section {
   font-size: var(--text-lg);
   color: var(--color-text);
   font-family: var(--font-display);
-  font-weight: 400;
+  font-weight: 500;
   line-height: 1.4;
 }
 .about-tags {
@@ -538,7 +543,9 @@ section {
 .service-card h3 {
   font-family: var(--font-display);
   font-size: var(--text-lg);
-  font-weight: 500;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: -0.005em;
   margin-bottom: var(--space-3);
 }
 .service-card p {
@@ -609,7 +616,9 @@ section {
 .portfolio-body h3 {
   font-family: var(--font-display);
   font-size: var(--text-lg);
-  font-weight: 500;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: -0.005em;
   margin-bottom: var(--space-3);
 }
 .portfolio-body p {
@@ -695,7 +704,6 @@ section {
   padding: var(--space-2) 0;
   color: #f6ecd6;
   font-family: var(--font-display);
-  font-style: italic;
   font-size: var(--text-sm);
 }
 
@@ -724,8 +732,7 @@ section {
   color: #f6ecd6;
   font-family: var(--font-display);
   font-size: var(--text-xl);
-  font-weight: 400;
-  font-style: italic;
+  font-weight: 500;
   line-height: 1.35;
 }
 .divider-quote cite {
@@ -785,7 +792,9 @@ section {
 .timeline-role {
   font-family: var(--font-display);
   font-size: var(--text-lg);
-  font-weight: 500;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: -0.005em;
   margin-top: var(--space-1);
 }
 .timeline-org {
@@ -813,7 +822,9 @@ section {
 .skills-block h3 {
   font-family: var(--font-display);
   font-size: var(--text-lg);
-  font-weight: 500;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: -0.005em;
   margin-bottom: var(--space-5);
 }
 .skill-tags {
@@ -868,7 +879,9 @@ section {
 .side-panel h3 {
   font-family: var(--font-display);
   font-size: var(--text-lg);
-  font-weight: 500;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: -0.005em;
   margin-bottom: var(--space-5);
 }
 
@@ -929,7 +942,9 @@ section {
 }
 .why-item h4 {
   font-family: var(--font-display);
-  font-weight: 500;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: -0.005em;
   font-size: var(--text-base);
   margin-bottom: var(--space-1);
 }
@@ -955,7 +970,9 @@ section {
 .contact-title {
   font-family: var(--font-display);
   font-size: var(--text-xl);
-  font-weight: 500;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: -0.005em;
   position: relative;
   z-index: 1;
 }
