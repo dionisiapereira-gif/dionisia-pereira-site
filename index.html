@@ -74,7 +74,12 @@
         <li><a href="#contacto" data-i18n="nav.contacto">Contacto</a></li>
       </ul>
       <div class="header-actions">
-        <button class="lang-toggle" data-lang-toggle type="button" aria-label="View site in English">EN</button>
+        <div class="lang-switch" role="group" data-lang-group aria-label="Idioma">
+          <button type="button" class="lang-opt is-active" data-set-lang="pt" lang="pt" aria-pressed="true">PT</button>
+          <button type="button" class="lang-opt" data-set-lang="en" lang="en" aria-pressed="false">EN</button>
+          <button type="button" class="lang-opt" data-set-lang="fr" lang="fr" aria-pressed="false">FR</button>
+          <button type="button" class="lang-opt" data-set-lang="es" lang="es" aria-pressed="false">ES</button>
+        </div>
         <button class="theme-toggle" data-theme-toggle aria-label="Alternar para modo escuro">
           <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/></svg>
         </button>
@@ -93,6 +98,12 @@
     <a href="#portfolio" data-i18n="nav.portfolio">Portfólio</a>
     <a href="#skills" data-i18n="nav.skills">Skills</a>
     <a href="#contacto" data-i18n="nav.contacto">Contacto</a>
+    <div class="lang-switch lang-switch--mobile" role="group" data-lang-group aria-label="Idioma">
+      <button type="button" class="lang-opt is-active" data-set-lang="pt" lang="pt" aria-pressed="true">PT</button>
+      <button type="button" class="lang-opt" data-set-lang="en" lang="en" aria-pressed="false">EN</button>
+      <button type="button" class="lang-opt" data-set-lang="fr" lang="fr" aria-pressed="false">FR</button>
+      <button type="button" class="lang-opt" data-set-lang="es" lang="es" aria-pressed="false">ES</button>
+    </div>
   </div>
 </header>
 
@@ -238,7 +249,7 @@
         <div class="timeline-item is-current reveal">
           <span class="timeline-dot"></span>
           <div class="timeline-period" data-i18n="journey.item1.period">Setembro 2026 a atual</div>
-          <div class="timeline-role">Erasmus Mobility Project Manager</div>
+          <div class="timeline-role" data-i18n="journey.item1.role">Erasmus Mobility Project Manager</div>
           <div class="timeline-org">Crejob Portugal</div>
           <p class="timeline-desc" data-i18n="journey.item1.desc">Coordenação de projetos de mobilidade Erasmus+, da candidatura ao acompanhamento dos participantes; gestão de parcerias internacionais, orçamentos e conformidade com os requisitos do programa.</p>
         </div>
@@ -254,7 +265,7 @@
         <div class="timeline-item reveal">
           <span class="timeline-dot"></span>
           <div class="timeline-period" data-i18n="journey.item2.period">Novembro 2024 a Setembro 2026</div>
-          <div class="timeline-role">Hospitality Manager</div>
+          <div class="timeline-role" data-i18n="journey.item2.role">Hospitality Manager</div>
           <div class="timeline-org">Crejob Portugal</div>
           <p class="timeline-desc" data-i18n="journey.item2.desc">Gestão de hospitalidade dinâmica focada em elevar a satisfação dos hóspedes; operações eficientes e cultura de serviço personalizada; liderança de equipas de alto desempenho.</p>
         </div>
@@ -370,7 +381,7 @@
           <div class="portfolio-body">
             <span class="portfolio-meta" data-i18n-html="portfolio.card3.meta">Food Addiction Reset Community (ARC) &middot; 2022 a atual</span>
             <h3 data-i18n-html="portfolio.card3.title">Community &amp; Social Media Manager, Relações Públicas</h3>
-            <p data-i18n="portfolio.card3.desc">Gestão de comunidade online e redes sociais da Addiction Reset Community (ARC), liderada pela Dr.&nbsp;Joan Ifland, dedicada à recuperação da adição a alimentos processados. Produção de conteúdos, gestão de Paid Media e análise de marketing digital, a par de coaching entre pares, mentoria em bem-estar e facilitação de grupos de estudo para uma comunidade internacional.</p>
+            <p data-i18n-html="portfolio.card3.desc">Gestão de comunidade online e redes sociais da Addiction Reset Community (ARC), liderada pela Dr.&nbsp;Joan Ifland, dedicada à recuperação da adição a alimentos processados. Produção de conteúdos, gestão de Paid Media e análise de marketing digital, a par de coaching entre pares, mentoria em bem-estar e facilitação de grupos de estudo para uma comunidade internacional.</p>
             <div class="portfolio-links">
               <a class="portfolio-link" href="https://www.foodaddictionreset.com/" target="_blank" rel="noopener" data-i18n="portfolio.link.site">Site oficial</a>
               <a class="portfolio-link" href="https://www.facebook.com/foodaddictionreset/" target="_blank" rel="noopener">Facebook</a>
