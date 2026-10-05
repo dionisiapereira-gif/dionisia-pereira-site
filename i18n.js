@@ -61,22 +61,22 @@
     "about.stat2": { pt: "colaborações simultâneas geridas com sucesso", en: "simultaneous collaborations managed successfully", fr: "collaborations simultanées gérées avec succès", es: "colaboraciones simultáneas gestionadas con éxito" },
     "about.stat3": { pt: "idiomas de trabalho", en: "working languages", fr: "langues de travail", es: "idiomas de trabajo" },
     "about.p1": {
-      pt: "Comunicadora nata e apaixonada por palavras, ideias e pessoas. Assim me defino depois de duas décadas dedicadas à Comunicação e ao Marketing.",
-      en: "A born communicator, passionate about words, ideas and people. That's how I'd describe myself after two decades dedicated to Communication and Marketing.",
-      fr: "Communicante née, passionnée par les mots, les idées et les personnes. C'est ainsi que je me définis après deux décennies consacrées à la Communication et au Marketing.",
-      es: "Comunicadora nata y apasionada por las palabras, las ideas y las personas. Así me defino después de dos décadas dedicadas a la Comunicación y al Marketing."
+      pt: "Sou profissional de comunicação e marketing com mais de 20 anos de experiência a transformar ideias em mensagens claras, marcas com significado e relações sólidas. Combino pensamento estratégico com criatividade prática, liderança de equipas e uma abordagem centrada nas pessoas.",
+      en: "I'm a communications and marketing professional with 20+ years of experience turning ideas into clear messages, meaningful brands and strong relationships. I combine strategic thinking with hands-on creativity, team leadership and a people-first approach.",
+      fr: "Je suis une professionnelle de la communication et du marketing, forte de plus de 20 ans d'expérience à transformer des idées en messages clairs, en marques porteuses de sens et en relations solides. J'allie réflexion stratégique et créativité concrète, leadership d'équipe et approche centrée sur les personnes.",
+      es: "Soy una profesional de la comunicación y el marketing con más de 20 años de experiencia transformando ideas en mensajes claros, marcas con sentido y relaciones sólidas. Combino pensamiento estratégico con creatividad práctica, liderazgo de equipos y un enfoque centrado en las personas."
     },
     "about.p2": {
-      pt: "Ao longo do meu percurso destaquei-me pela liderança de equipas, pela criatividade estratégica e pela empatia no relacionamento interpessoal, seja a dirigir a comunicação de uma marca, a organizar um evento internacional ou a escrever o texto certo para o momento certo.",
-      en: "Throughout my career I've stood out for team leadership, strategic creativity and empathy in interpersonal relationships, whether directing a brand's communication, organising an international event, or writing the right words for the right moment.",
-      fr: "Tout au long de mon parcours, je me suis distinguée par mon leadership d'équipe, ma créativité stratégique et mon empathie dans les relations interpersonnelles, que ce soit pour diriger la communication d'une marque, organiser un événement international ou trouver les mots justes au bon moment.",
-      es: "A lo largo de mi trayectoria me he distinguido por el liderazgo de equipos, la creatividad estratégica y la empatía en las relaciones interpersonales, ya sea dirigiendo la comunicación de una marca, organizando un evento internacional o escribiendo el texto adecuado en el momento adecuado."
+      pt: "A par da carreira em marketing, tornei-me proprietária e gestora de alojamento local, juntando o meu interesse pela hospitalidade e pela experiência do hóspede ao lado prático de criar estadias acolhedoras e memoráveis.",
+      en: "Alongside my marketing career, I became a local accommodation owner and manager, bringing together my interest in hospitality, guest experience and the practical side of creating welcoming, memorable stays.",
+      fr: "Parallèlement à ma carrière en marketing, je suis devenue propriétaire et gestionnaire d'un hébergement local, alliant mon intérêt pour l'hospitalité et l'expérience client au côté pratique de la création de séjours accueillants et mémorables.",
+      es: "Junto a mi carrera en marketing, me convertí en propietaria y gestora de alojamiento local, uniendo mi interés por la hospitalidad y la experiencia del huésped con el lado práctico de crear estancias acogedoras y memorables."
     },
     "about.p3": {
-      pt: "Nos últimos anos abracei o coaching e a formação como extensão natural da minha vocação: ajudar os outros a crescer, a alinhar-se com o seu propósito e a viver com mais bem-estar. Sou uma profissional versátil, positiva e resiliente, com forte capacidade de adaptação e uma visão holística de cada projeto.",
-      en: "In recent years I've embraced coaching and training as a natural extension of my calling: helping others grow, align with their purpose and live with more wellbeing. I'm a versatile, positive and resilient professional, with a strong capacity to adapt and a holistic view of every project.",
-      fr: "Ces dernières années, j'ai adopté le coaching et la formation comme prolongement naturel de ma vocation : aider les autres à grandir, à s'aligner sur leur raison d'être et à vivre avec plus de bien-être. Je suis une professionnelle polyvalente, positive et résiliente, dotée d'une forte capacité d'adaptation et d'une vision holistique de chaque projet.",
-      es: "En los últimos años he abrazado el coaching y la formación como extensión natural de mi vocación: ayudar a otros a crecer, a alinearse con su propósito y a vivir con más bienestar. Soy una profesional versátil, positiva y resiliente, con gran capacidad de adaptación y una visión holística de cada proyecto."
+      pt: "Mais recentemente, alarguei o meu trabalho ao coaching e à formação, ajudando pessoas e equipas a ganhar confiança, a clarificar a sua direção e a crescer com propósito e bem-estar.",
+      en: "More recently, I have expanded my work into coaching and training, helping people and teams build confidence, clarify their direction and grow with purpose and wellbeing.",
+      fr: "Plus récemment, j'ai élargi mon activité au coaching et à la formation, en aidant les personnes et les équipes à gagner en confiance, à clarifier leur cap et à grandir avec sens et bien-être.",
+      es: "Más recientemente, he ampliado mi trabajo al coaching y la formación, ayudando a personas y equipos a ganar confianza, aclarar su rumbo y crecer con propósito y bienestar."
     },
     "about.p4": {
       pt: "Hoje, concilio várias colaborações remotas e part-time em simultâneo, a prova viva de que consigo entregar valor real com autonomia, flexibilidade e organização, esteja eu onde estiver.",
@@ -167,13 +167,23 @@
       fr: "Aujourd'hui, je mène avec succès plusieurs collaborations à distance en parallèle, la preuve la plus concrète que la flexibilité n'enlève rien à la qualité.",
       es: "Hoy compagino con éxito varias colaboraciones en remoto a la vez, la prueba más concreta de que la flexibilidad no resta calidad."
     },
-    "journey.item1.role": { pt: "Erasmus Mobility Project Manager", en: "Erasmus Mobility Project Manager", fr: "Responsable de projets de mobilité Erasmus", es: "Gestora de proyectos de movilidad Erasmus" },
-    "journey.item1.period": { pt: "Setembro 2026 a atual", en: "September 2026 to present", fr: "Septembre 2026 – aujourd'hui", es: "Septiembre de 2026 – actualidad" },
+    "journey.item1.role": {
+      pt: "European Mobility Manager",
+      en: "European Mobility Manager",
+      fr: "Responsable de la mobilité européenne",
+      es: "Gestora de movilidad europea"
+    },
+    "journey.item1.period": {
+      pt: "Novembro 2025 a atual",
+      en: "November 2025 to present",
+      fr: "Novembre 2025 – aujourd'hui",
+      es: "Noviembre de 2025 – actualidad"
+    },
     "journey.item1.desc": {
-      pt: "Coordenação de projetos de mobilidade Erasmus+, da candidatura ao acompanhamento dos participantes; gestão de parcerias internacionais, orçamentos e conformidade com os requisitos do programa.",
-      en: "Coordination of Erasmus+ mobility projects, from application to participant support; management of international partnerships, budgets and compliance with programme requirements.",
-      fr: "Coordination de projets de mobilité Erasmus+, de la candidature au suivi des participants ; gestion de partenariats internationaux, de budgets et de la conformité aux exigences du programme.",
-      es: "Coordinación de proyectos de movilidad Erasmus+, desde la candidatura hasta el seguimiento de los participantes; gestión de alianzas internacionales, presupuestos y cumplimiento de los requisitos del programa."
+      pt: "Avaliação de CVs e perfis de candidatos para os associar a estágios adequados; coordenação da logística de grupos, dos procedimentos de boas-vindas e dos dossiês de pré-partida; desenvolvimento e gestão de parcerias com empresas de acolhimento; coordenação de estágios e acompanhamento da comunicação entre beneficiários e organizações de acolhimento.",
+      en: "Assessing CVs and candidate profiles to match participants with suitable internship opportunities; coordinating group logistics, welcome procedures and pre-departure information packs; developing and managing partnerships with host companies; coordinating internship placements and monitoring communication between beneficiaries and host organisations.",
+      fr: "Évaluation des CV et des profils de candidats pour les associer à des stages adaptés ; coordination de la logistique des groupes, des procédures d'accueil et des dossiers d'information avant le départ ; développement et gestion de partenariats avec les entreprises d'accueil ; coordination des stages et suivi de la communication entre bénéficiaires et organisations d'accueil.",
+      es: "Evaluación de CV y perfiles de candidatos para asignarlos a prácticas adecuadas; coordinación de la logística de grupos, los procedimientos de bienvenida y los dosieres de información previos a la salida; desarrollo y gestión de alianzas con empresas de acogida; coordinación de las prácticas y seguimiento de la comunicación entre beneficiarios y organizaciones de acogida."
     },
 
     "journey.itemAL.role": { pt: "Proprietária &amp; Gestora de Alojamento Local", en: "Owner &amp; Short-Term Rental Manager", fr: "Propriétaire &amp; gestionnaire de location saisonnière (Alojamento Local)", es: "Propietaria &amp; gestora de alojamiento local" },
@@ -185,32 +195,44 @@
       es: "Propietaria y gestora del alojamiento local NorteSoul Miramar (registro AL 161706), un apartamento vacacional junto al mar en Gulpilhares, Vila Nova de Gaia; gestión de reservas, comunicación con los huéspedes y creación del sitio web multilingüe de la propiedad."
     },
     "journey.itemAL.linkLabel": { pt: "Ver o site da NorteSoul Miramar ↗", en: "Visit the NorteSoul Miramar site ↗", fr: "Voir le site de NorteSoul Miramar ↗", es: "Ver el sitio de NorteSoul Miramar ↗" },
-    "journey.item2.role": { pt: "Hospitality Manager", en: "Hospitality Manager", fr: "Responsable de l'hospitalité", es: "Gestora de hospitalidad" },
-    "journey.item2.period": { pt: "Novembro 2024 a Setembro 2026", en: "November 2024 to September 2026", fr: "Novembre 2024 – septembre 2026", es: "Noviembre de 2024 – septiembre de 2026" },
-    "journey.item2.desc": {
-      pt: "Gestão de hospitalidade dinâmica focada em elevar a satisfação dos hóspedes; operações eficientes e cultura de serviço personalizada; liderança de equipas de alto desempenho.",
-      en: "Dynamic hospitality management focused on boosting guest satisfaction; efficient operations and a personalised service culture; leadership of high-performing teams.",
-      fr: "Gestion dynamique de l'hospitalité visant à améliorer la satisfaction des clients ; opérations efficaces et culture de service personnalisée ; direction d'équipes très performantes.",
-      es: "Gestión dinámica de la hospitalidad orientada a elevar la satisfacción de los huéspedes; operaciones eficientes y cultura de servicio personalizado; liderazgo de equipos de alto rendimiento."
-    },
     "journey.item3.period": { pt: "Dezembro 2024 a Agosto 2026", en: "December 2024 to August 2026", fr: "Décembre 2024 – août 2026", es: "Diciembre de 2024 – agosto de 2026" },
     "journey.item3.role": { pt: "Consultora de Comunicação e Marketing", en: "Communication and Marketing Consultant", fr: "Consultante en communication et marketing", es: "Consultora de comunicación y marketing" },
     "journey.item3.desc": {
-      pt: "Produção de conteúdos e gestão de social media e Paid Media; desenvolvimento de estratégias de comunicação e marketing digital, numa colaboração que terminou com a venda da empresa.",
-      en: "Content production and management of social media and Paid Media; development of communication and digital marketing strategies, in a collaboration that ended with the company's sale.",
-      fr: "Production de contenus et gestion des réseaux sociaux et du Paid Media ; développement de stratégies de communication et de marketing digital, dans le cadre d'une collaboration qui s'est achevée avec la vente de l'entreprise.",
-      es: "Producción de contenidos y gestión de redes sociales y Paid Media; desarrollo de estrategias de comunicación y marketing digital, en una colaboración que terminó con la venta de la empresa."
+      pt: "Gestão de conteúdos, de social media e de Paid Media; identificação e desenvolvimento de novas parcerias e oportunidades de negócio, numa colaboração que terminou com a venda da empresa.",
+      en: "Content, social media and Paid Media management; identification and development of new partnerships and business opportunities, in a collaboration that ended with the company's sale.",
+      fr: "Gestion des contenus, des réseaux sociaux et du Paid Media ; identification et développement de nouveaux partenariats et opportunités commerciales, dans le cadre d'une collaboration qui s'est achevée avec la vente de l'entreprise.",
+      es: "Gestión de contenidos, redes sociales y Paid Media; identificación y desarrollo de nuevas alianzas y oportunidades de negocio, en una colaboración que terminó con la venta de la empresa."
     },
-    "journey.item4.period": { pt: "2022 a atual", en: "2022 to present", fr: "2022 – aujourd'hui", es: "2022 – actualidad" },
-    "journey.item4.role": { pt: "Community &amp; Social Media Manager, Relações Públicas", en: "Community &amp; Social Media Manager, Public Relations", fr: "Community &amp; Social Media Manager, relations publiques", es: "Community &amp; Social Media Manager, relaciones públicas" },
+    "journey.item4.period": {
+      pt: "Setembro 2022 a atual",
+      en: "September 2022 to present",
+      fr: "Septembre 2022 – aujourd'hui",
+      es: "Septiembre de 2022 – actualidad"
+    },
+    "journey.item4.role": {
+      pt: "Community, Social &amp; Paid Media Manager, Relações Públicas e Coach",
+      en: "Community, Social &amp; Paid Media Manager, PR and Coach",
+      fr: "Community, Social &amp; Paid Media Manager, relations publiques et coach",
+      es: "Community, Social &amp; Paid Media Manager, relaciones públicas y coach"
+    },
     "journey.item4.desc": {
-      pt: "Gestão de comunidade online, análise de marketing digital, coaching entre pares, mentoria em bem-estar e facilitação de grupos de estudo.",
-      en: "Online community management, digital marketing analysis, peer coaching, wellbeing mentoring and study group facilitation.",
-      fr: "Gestion de communauté en ligne, analyse de marketing digital, coaching entre pairs, mentorat en bien-être et animation de groupes d'étude.",
-      es: "Gestión de comunidad online, análisis de marketing digital, coaching entre iguales, mentoría en bienestar y facilitación de grupos de estudio."
+      pt: "Planeamento de conteúdos e gestão de redes sociais de uma comunidade internacional online; planeamento e monitorização de campanhas de paid social; análise da atividade de marketing digital e das tendências de envolvimento da comunidade; facilitação de grupos de estudo online e de debates entre membros.",
+      en: "Content planning and social-media activity for an international online community; planning and monitoring of paid-social campaigns; analysis of digital-marketing activity and community engagement trends; facilitation of online study groups and member discussions.",
+      fr: "Planification des contenus et animation des réseaux sociaux d'une communauté internationale en ligne ; planification et suivi de campagnes de paid social ; analyse de l'activité de marketing digital et des tendances d'engagement de la communauté ; animation de groupes d'étude en ligne et d'échanges entre membres.",
+      es: "Planificación de contenidos y actividad en redes sociales de una comunidad internacional online; planificación y seguimiento de campañas de paid social; análisis de la actividad de marketing digital y de las tendencias de participación de la comunidad; facilitación de grupos de estudio online y de debates entre miembros."
     },
-    "journey.item5.period": { pt: "Dezembro 2023 a 2024", en: "December 2023 to 2024", fr: "Décembre 2023 – 2024", es: "Diciembre de 2023 – 2024" },
-    "journey.item5.role": { pt: "Consultora de Comunicação e Marketing", en: "Communication and Marketing Consultant", fr: "Consultante en communication et marketing", es: "Consultora de comunicación y marketing" },
+    "journey.item5.period": {
+      pt: "Dezembro 2023 a Dezembro 2024",
+      en: "December 2023 to December 2024",
+      fr: "Décembre 2023 – décembre 2024",
+      es: "Diciembre de 2023 – diciembre de 2024"
+    },
+    "journey.item5.role": {
+      pt: "Consultora de Comunicação e Marketing (projeto de transição)",
+      en: "Communication and Marketing Consultant (Transition Project)",
+      fr: "Consultante en communication et marketing (projet de transition)",
+      es: "Consultora de comunicación y marketing (proyecto de transición)"
+    },
     "journey.item5.desc": {
       pt: "Desenvolvimento de estratégias de comunicação e marketing, gestão de redes sociais, relações públicas, copywriting e storytelling de marca.",
       en: "Development of communication and marketing strategies, social media management, public relations, copywriting and brand storytelling.",
@@ -220,18 +242,18 @@
     "journey.item6.period": { pt: "Outubro 2008 a Dezembro 2023", en: "October 2008 to December 2023", fr: "Octobre 2008 – décembre 2023", es: "Octubre de 2008 – diciembre de 2023" },
     "journey.item6.role": { pt: "Diretora de Comunicação e Marketing", en: "Communication and Marketing Director", fr: "Directrice de la communication et du marketing", es: "Directora de comunicación y marketing" },
     "journey.item6.desc": {
-      pt: "Direção estratégica e criativa da marca; organização de eventos internacionais, feiras e congressos; coordenação de lojas e vitrinismo; copywriting.",
-      en: "Strategic and creative brand direction; organisation of international events, trade fairs and conferences; store and window-display coordination; copywriting.",
-      fr: "Direction stratégique et créative de la marque ; organisation d'événements internationaux, salons et congrès ; coordination des magasins et de la vitrine ; copywriting.",
-      es: "Dirección estratégica y creativa de la marca; organización de eventos internacionales, ferias y congresos; coordinación de tiendas y escaparatismo; copywriting."
+      pt: "Direção estratégica e criativa da marca em marketing, comunicação, conteúdos digitais e iniciativas comerciais; planos anuais de comunicação e marketing, incluindo orçamento e implementação; coordenação de profissionais comerciais, de design e de marketing; apoio às vendas ibéricas e ao desenvolvimento de novos negócios; redes sociais, marketing digital, copywriting e storytelling de marca; relações públicas e organização de feiras e congressos internacionais em vários mercados.",
+      en: "Strategic and creative direction of the brand across marketing, communication, digital content and commercial initiatives; annual communication and marketing plans, including budget planning and implementation; coordination of commercial, design and marketing professionals; support for Iberian sales and new-business development; social media, digital marketing, copywriting and brand storytelling; public relations and organisation of international trade fairs and conferences across multiple markets.",
+      fr: "Direction stratégique et créative de la marque en marketing, communication, contenus numériques et initiatives commerciales ; plans annuels de communication et de marketing, budget et mise en œuvre compris ; coordination de professionnels du commercial, du design et du marketing ; soutien aux ventes ibériques et au développement de nouvelles affaires ; réseaux sociaux, marketing digital, copywriting et storytelling de marque ; relations publiques et organisation de salons et congrès internationaux sur plusieurs marchés.",
+      es: "Dirección estratégica y creativa de la marca en marketing, comunicación, contenidos digitales e iniciativas comerciales; planes anuales de comunicación y marketing, con presupuesto e implementación; coordinación de profesionales comerciales, de diseño y de marketing; apoyo a las ventas ibéricas y al desarrollo de nuevos negocios; redes sociales, marketing digital, copywriting y storytelling de marca; relaciones públicas y organización de ferias y congresos internacionales en varios mercados."
     },
     "journey.item7.period": { pt: "Janeiro 2001 a Setembro 2008", en: "January 2001 to September 2008", fr: "Janvier 2001 – septembre 2008", es: "Enero de 2001 – septiembre de 2008" },
     "journey.item7.role": { pt: "Diretora de Marketing", en: "Marketing Director", fr: "Directrice marketing", es: "Directora de marketing" },
     "journey.item7.desc": {
-      pt: "Direção de marketing e comunicação estratégica; execução do plano de comunicação e marketing; organização de eventos.",
-      en: "Strategic marketing and communication direction; execution of the communication and marketing plan; event organisation.",
-      fr: "Direction du marketing et de la communication stratégique ; exécution du plan de communication et de marketing ; organisation d'événements.",
-      es: "Dirección de marketing y comunicación estratégica; ejecución del plan de comunicación y marketing; organización de eventos."
+      pt: "Planeamento estratégico de marketing e comunicação; planos de comunicação e marketing em canais comerciais e de marca; organização de eventos e gestão dos materiais de apoio; coordenação da comunicação em loja, do visual merchandising e da apresentação ao cliente; redação de textos promocionais, comerciais e digitais; apoio à gestão do website e do e-commerce.",
+      en: "Strategic marketing and communication planning; communication and marketing plans across commercial and brand channels; event organisation and supporting marketing materials; coordination of store communication, visual merchandising and customer-facing presentation; copy for promotional, commercial and digital materials; support for website and e-commerce management.",
+      fr: "Planification stratégique du marketing et de la communication ; plans de communication et de marketing sur les canaux commerciaux et de marque ; organisation d'événements et supports marketing associés ; coordination de la communication en magasin, du merchandising visuel et de la présentation client ; rédaction de textes promotionnels, commerciaux et numériques ; soutien à la gestion du site web et du e-commerce.",
+      es: "Planificación estratégica de marketing y comunicación; planes de comunicación y marketing en canales comerciales y de marca; organización de eventos y materiales de apoyo; coordinación de la comunicación en tienda, el visual merchandising y la presentación al cliente; redacción de textos promocionales, comerciales y digitales; apoyo a la gestión del sitio web y del e-commerce."
     },
 
     "portfolio.featured.badge": { pt: "Projeto próprio", en: "Own project", fr: "Projet personnel", es: "Proyecto propio" },
@@ -294,8 +316,18 @@
       fr: "Appel vidéo d'entraide entre pairs dans un cadre chaleureux, représentatif d'une communauté de bien-être en ligne",
       es: "Videollamada de apoyo entre iguales en un entorno acogedor, representativa de una comunidad online de bienestar"
     },
-    "portfolio.card3.meta": { pt: "Food Addiction Reset Community (ARC) &middot; 2022 a atual", en: "Food Addiction Reset Community (ARC) &middot; 2022 to present", fr: "Food Addiction Reset Community (ARC) &middot; 2022 – aujourd'hui", es: "Food Addiction Reset Community (ARC) &middot; 2022 – actualidad" },
-    "portfolio.card3.title": { pt: "Community &amp; Social Media Manager, Relações Públicas", en: "Community &amp; Social Media Manager, Public Relations", fr: "Community &amp; Social Media Manager, relations publiques", es: "Community &amp; Social Media Manager, relaciones públicas" },
+    "portfolio.card3.meta": {
+      pt: "Food Addiction Reset Community (ARC) &middot; Setembro 2022 a atual",
+      en: "Food Addiction Reset Community (ARC) &middot; September 2022 to present",
+      fr: "Food Addiction Reset Community (ARC) &middot; septembre 2022 – aujourd'hui",
+      es: "Food Addiction Reset Community (ARC) &middot; septiembre de 2022 – actualidad"
+    },
+    "portfolio.card3.title": {
+      pt: "Community, Social &amp; Paid Media Manager, Relações Públicas e Coach",
+      en: "Community, Social &amp; Paid Media Manager, PR and Coach",
+      fr: "Community, Social &amp; Paid Media Manager, relations publiques et coach",
+      es: "Community, Social &amp; Paid Media Manager, relaciones públicas y coach"
+    },
     "portfolio.card3.desc": {
       pt: "Gestão de comunidade online e redes sociais da Addiction Reset Community (ARC), liderada pela Dr.&nbsp;Joan Ifland, dedicada à recuperação da adição a alimentos processados. Produção de conteúdos, gestão de Paid Media e análise de marketing digital, a par de coaching entre pares, mentoria em bem-estar e facilitação de grupos de estudo para uma comunidade internacional.",
       en: "Online community and social media management for the Addiction Reset Community (ARC), led by Dr.&nbsp;Joan Ifland, dedicated to recovery from processed food addiction. Content production, Paid Media management and digital marketing analysis, alongside peer coaching, wellbeing mentoring and study group facilitation for an international community.",
@@ -339,18 +371,60 @@
       es: "Herramientas, idiomas y formación al servicio de cada proyecto"
     },
     "skills.mainTitle": { pt: "Competências principais", en: "Core Skills", fr: "Compétences principales", es: "Competencias principales" },
-    "skills.tag1": { pt: "Relações Públicas", en: "Public Relations", fr: "Relations publiques", es: "Relaciones públicas" },
-    "skills.tag2": { pt: "Acolhimento", en: "Hospitality", fr: "Accueil", es: "Atención al huésped" },
-    "skills.tag3": { pt: "Consultoria em Comunicação e Marketing", en: "Communication and Marketing Consulting", fr: "Conseil en communication et marketing", es: "Consultoría en comunicación y marketing" },
-    "skills.tag4": { pt: "Gestão de Marketing Digital", en: "Digital Marketing Management", fr: "Gestion du marketing digital", es: "Gestión de marketing digital" },
-    "skills.tag5": { pt: "Paid Media", en: "Paid Media", fr: "Paid Media", es: "Paid Media" },
-    "skills.tag6": { pt: "Social Media", en: "Social Media", fr: "Réseaux sociaux", es: "Redes sociales" },
-    "skills.tag7": { pt: "Produção de Conteúdo", en: "Content Production", fr: "Production de contenu", es: "Producción de contenidos" },
-    "skills.tag8": { pt: "Copywriting e Storytelling", en: "Copywriting and Storytelling", fr: "Copywriting et storytelling", es: "Copywriting y storytelling" },
-    "skills.tag9": { pt: "Formação e Educação", en: "Training and Education", fr: "Formation et éducation", es: "Formación y educación" },
-    "skills.tag10": { pt: "Coaching de Bem-Estar e Negócios", en: "Wellbeing and Business Coaching", fr: "Coaching bien-être et business", es: "Coaching de bienestar y negocios" },
-    "skills.tag11": { pt: "Gestão de Eventos", en: "Event Management", fr: "Gestion d'événements", es: "Gestión de eventos" },
-    "skills.tag12": { pt: "Cultura e Línguas Estrangeiras", en: "Foreign Languages and Culture", fr: "Culture et langues étrangères", es: "Cultura e idiomas extranjeros" },
+    "skills.tag1": {
+      pt: "Estratégia de Marketing e Comunicação",
+      en: "Marketing &amp; Communication Strategy",
+      fr: "Stratégie de marketing et de communication",
+      es: "Estrategia de marketing y comunicación"
+    },
+    "skills.tag2": {
+      pt: "Posicionamento de Marca e Comunicação Corporativa",
+      en: "Brand Positioning &amp; Corporate Communication",
+      fr: "Positionnement de marque et communication corporate",
+      es: "Posicionamiento de marca y comunicación corporativa"
+    },
+    "skills.tag3": {
+      pt: "Marketing Digital, Paid Social e Estratégia de Conteúdo",
+      en: "Digital Marketing, Paid Social &amp; Content Strategy",
+      fr: "Marketing digital, paid social et stratégie de contenu",
+      es: "Marketing digital, paid social y estrategia de contenidos"
+    },
+    "skills.tag4": {
+      pt: "Social Media e Gestão de Comunidades",
+      en: "Social Media &amp; Community Management",
+      fr: "Réseaux sociaux et gestion de communautés",
+      es: "Redes sociales y gestión de comunidades"
+    },
+    "skills.tag5": {
+      pt: "Copywriting, Storytelling e Conteúdo Editorial",
+      en: "Copywriting, Storytelling &amp; Editorial Content",
+      fr: "Copywriting, storytelling et contenu éditorial",
+      es: "Copywriting, storytelling y contenido editorial"
+    },
+    "skills.tag6": {
+      pt: "Relações Públicas, Eventos e Feiras",
+      en: "Public Relations, Events &amp; Trade Fairs",
+      fr: "Relations publiques, événements et salons",
+      es: "Relaciones públicas, eventos y ferias"
+    },
+    "skills.tag7": {
+      pt: "Parcerias Internacionais e Coordenação de Mobilidade",
+      en: "International Partnerships &amp; Mobility Coordination",
+      fr: "Partenariats internationaux et coordination de la mobilité",
+      es: "Alianzas internacionales y coordinación de movilidad"
+    },
+    "skills.tag8": {
+      pt: "Experiência do Hóspede e Operações de Hospitalidade",
+      en: "Guest Experience &amp; Hospitality Operations",
+      fr: "Expérience client et opérations d'hospitalité",
+      es: "Experiencia del huésped y operaciones de hospitalidad"
+    },
+    "skills.tag9": {
+      pt: "Liderança de Equipas e Gestão de Stakeholders",
+      en: "Team Leadership &amp; Stakeholder Management",
+      fr: "Leadership d'équipe et gestion des parties prenantes",
+      es: "Liderazgo de equipos y gestión de stakeholders"
+    },
     "skills.toolsTitle": { pt: "Ferramentas", en: "Tools", fr: "Outils", es: "Herramientas" },
     "skills.langsTitle": { pt: "Idiomas", en: "Languages", fr: "Langues", es: "Idiomas" },
     "skills.lang1.name": { pt: "Português", en: "Portuguese", fr: "Portugais", es: "Portugués" },
@@ -362,13 +436,38 @@
     "skills.lang4.name": { pt: "Espanhol", en: "Spanish", fr: "Espagnol", es: "Español" },
     "skills.lang4.level": { pt: "Avançado", en: "Advanced", fr: "Avancé", es: "Avanzado" },
     "skills.lang5.name": { pt: "Holandês", en: "Dutch", fr: "Néerlandais", es: "Neerlandés" },
-    "skills.lang5.level": { pt: "Inicial", en: "Basic", fr: "Débutant", es: "Básico" },
+    "skills.lang5.level": {
+      pt: "A1",
+      en: "A1",
+      fr: "A1",
+      es: "A1"
+    },
     "skills.eduTitle": { pt: "Formação Académica", en: "Academic Education", fr: "Formation académique", es: "Formación académica" },
-    "skills.edu1.title": { pt: "Pós-Graduação em Comunicação Empresarial", en: "Postgraduate Diploma in Business Communication", fr: "Postgraduat en communication d'entreprise", es: "Posgrado en Comunicación Empresarial" },
-    "skills.edu2.title": { pt: "Pós-Graduação em Marketing: Branding", en: "Postgraduate Diploma in Marketing: Branding", fr: "Postgraduat en marketing : branding", es: "Posgrado en Marketing: Branding" },
-    "skills.edu3.title": { pt: "Licenciatura em Relações Internacionais: Culturais e Políticas", en: "Bachelor's Degree in International Relations: Cultural and Political Studies", fr: "Licence en relations internationales : études culturelles et politiques", es: "Licenciatura en Relaciones Internacionales: Estudios Culturales y Políticos" },
+    "skills.edu1.title": {
+      pt: "Pós-Graduação em Comunicação Empresarial",
+      en: "Postgraduate in Corporate Communication",
+      fr: "Postgraduat en communication d'entreprise",
+      es: "Posgrado en Comunicación Corporativa"
+    },
+    "skills.edu2.title": {
+      pt: "Pós-Graduação em Marketing: Branding",
+      en: "Postgraduate in Marketing: Branding",
+      fr: "Postgraduat en marketing : branding",
+      es: "Posgrado en Marketing: Branding"
+    },
+    "skills.edu3.title": {
+      pt: "Licenciatura em Relações Internacionais: Culturais e Políticas",
+      en: "Bachelor's in International Relations: Cultural and Political",
+      fr: "Licence en relations internationales : études culturelles et politiques",
+      es: "Licenciatura en Relaciones Internacionales: Estudios Culturales y Políticos"
+    },
     "skills.certsTitle": { pt: "Certificações", en: "Certifications", fr: "Certifications", es: "Certificaciones" },
-    "skills.cert1.title": { pt: "Certificação de Formador", en: "Trainer Certification", fr: "Certification de formatrice", es: "Certificación de formadora" },
+    "skills.cert1.title": {
+      pt: "Certificação de Formador (CCP)",
+      en: "Certified Trainer (CCP)",
+      fr: "Formatrice certifiée (CCP)",
+      es: "Formadora certificada (CCP)"
+    },
     "skills.cert4.title": { pt: "Marketing Digital Avançado", en: "Advanced Digital Marketing", fr: "Marketing digital avancé", es: "Marketing digital avanzado" },
 
     "why.eyebrow": { pt: "Porque trabalhar comigo", en: "Why work with me", fr: "Pourquoi travailler avec moi", es: "Por qué trabajar conmigo" },
