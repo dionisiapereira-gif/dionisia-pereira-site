@@ -74,7 +74,12 @@
         <li><a href="#contacto" data-i18n="nav.contacto">Contacto</a></li>
       </ul>
       <div class="header-actions">
-        <button class="lang-toggle" data-lang-toggle type="button" aria-label="View site in English">EN</button>
+        <div class="lang-switch" role="group" data-lang-group aria-label="Idioma">
+          <button type="button" class="lang-opt is-active" data-set-lang="pt" lang="pt" aria-pressed="true">PT</button>
+          <button type="button" class="lang-opt" data-set-lang="en" lang="en" aria-pressed="false">EN</button>
+          <button type="button" class="lang-opt" data-set-lang="fr" lang="fr" aria-pressed="false">FR</button>
+          <button type="button" class="lang-opt" data-set-lang="es" lang="es" aria-pressed="false">ES</button>
+        </div>
         <button class="theme-toggle" data-theme-toggle aria-label="Alternar para modo escuro">
           <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/></svg>
         </button>
@@ -93,6 +98,12 @@
     <a href="#portfolio" data-i18n="nav.portfolio">Portfólio</a>
     <a href="#skills" data-i18n="nav.skills">Skills</a>
     <a href="#contacto" data-i18n="nav.contacto">Contacto</a>
+    <div class="lang-switch lang-switch--mobile" role="group" data-lang-group aria-label="Idioma">
+      <button type="button" class="lang-opt is-active" data-set-lang="pt" lang="pt" aria-pressed="true">PT</button>
+      <button type="button" class="lang-opt" data-set-lang="en" lang="en" aria-pressed="false">EN</button>
+      <button type="button" class="lang-opt" data-set-lang="fr" lang="fr" aria-pressed="false">FR</button>
+      <button type="button" class="lang-opt" data-set-lang="es" lang="es" aria-pressed="false">ES</button>
+    </div>
   </div>
 </header>
 
@@ -157,9 +168,9 @@
           </div>
 
           <div class="about-body reveal">
-            <p data-i18n="about.p1">Comunicadora nata e apaixonada por palavras, ideias e pessoas. Assim me defino depois de duas décadas dedicadas à Comunicação e ao Marketing.</p>
-            <p data-i18n="about.p2">Ao longo do meu percurso destaquei-me pela liderança de equipas, pela criatividade estratégica e pela empatia no relacionamento interpessoal, seja a dirigir a comunicação de uma marca, a organizar um evento internacional ou a escrever o texto certo para o momento certo.</p>
-            <p data-i18n="about.p3">Nos últimos anos abracei o coaching e a formação como extensão natural da minha vocação: ajudar os outros a crescer, a alinhar-se com o seu propósito e a viver com mais bem-estar. Sou uma profissional versátil, positiva e resiliente, com forte capacidade de adaptação e uma visão holística de cada projeto.</p>
+            <p data-i18n="about.p1">Sou profissional de comunicação e marketing com mais de 20 anos de experiência a transformar ideias em mensagens claras, marcas com significado e relações sólidas. Combino pensamento estratégico com criatividade prática, liderança de equipas e uma abordagem centrada nas pessoas.</p>
+            <p data-i18n="about.p2">A par da carreira em marketing, tornei-me proprietária e gestora de alojamento local, juntando o meu interesse pela hospitalidade e pela experiência do hóspede ao lado prático de criar estadias acolhedoras e memoráveis.</p>
+            <p data-i18n="about.p3">Mais recentemente, alarguei o meu trabalho ao coaching e à formação, ajudando pessoas e equipas a ganhar confiança, a clarificar a sua direção e a crescer com propósito e bem-estar.</p>
             <p data-i18n="about.p4">Hoje, concilio várias colaborações remotas e part-time em simultâneo, a prova viva de que consigo entregar valor real com autonomia, flexibilidade e organização, esteja eu onde estiver.</p>
             <div class="about-tags">
               <span class="tag" data-i18n="about.tag1">Liderança de equipas</span>
@@ -237,10 +248,10 @@
       <div class="timeline">
         <div class="timeline-item is-current reveal">
           <span class="timeline-dot"></span>
-          <div class="timeline-period" data-i18n="journey.item1.period">Setembro 2026 a atual</div>
-          <div class="timeline-role">Erasmus Mobility Project Manager</div>
+          <div class="timeline-period" data-i18n="journey.item1.period">Novembro 2025 a atual</div>
+          <div class="timeline-role" data-i18n="journey.item1.role">European Mobility Manager</div>
           <div class="timeline-org">Crejob Portugal</div>
-          <p class="timeline-desc" data-i18n="journey.item1.desc">Coordenação de projetos de mobilidade Erasmus+, da candidatura ao acompanhamento dos participantes; gestão de parcerias internacionais, orçamentos e conformidade com os requisitos do programa.</p>
+          <p class="timeline-desc" data-i18n="journey.item1.desc">Avaliação de CVs e perfis de candidatos para os associar a estágios adequados; coordenação da logística de grupos, dos procedimentos de boas-vindas e dos dossiês de pré-partida; desenvolvimento e gestão de parcerias com empresas de acolhimento; coordenação de estágios e acompanhamento da comunicação entre beneficiários e organizações de acolhimento.</p>
         </div>
 
         <div class="timeline-item is-current reveal">
@@ -253,32 +264,24 @@
 
         <div class="timeline-item reveal">
           <span class="timeline-dot"></span>
-          <div class="timeline-period" data-i18n="journey.item2.period">Novembro 2024 a Setembro 2026</div>
-          <div class="timeline-role">Hospitality Manager</div>
-          <div class="timeline-org">Crejob Portugal</div>
-          <p class="timeline-desc" data-i18n="journey.item2.desc">Gestão de hospitalidade dinâmica focada em elevar a satisfação dos hóspedes; operações eficientes e cultura de serviço personalizada; liderança de equipas de alto desempenho.</p>
-        </div>
-
-        <div class="timeline-item reveal">
-          <span class="timeline-dot"></span>
           <div class="timeline-period" data-i18n="journey.item3.period">Dezembro 2024 a Agosto 2026</div>
           <div class="timeline-role" data-i18n="journey.item3.role">Consultora de Comunicação e Marketing</div>
           <div class="timeline-org">NorteSoul (Rambras Imobiliária)</div>
-          <p class="timeline-desc" data-i18n="journey.item3.desc">Produção de conteúdos e gestão de social media e Paid Media; desenvolvimento de estratégias de comunicação e marketing digital, numa colaboração que terminou com a venda da empresa.</p>
+          <p class="timeline-desc" data-i18n="journey.item3.desc">Gestão de conteúdos, de social media e de Paid Media; identificação e desenvolvimento de novas parcerias e oportunidades de negócio, numa colaboração que terminou com a venda da empresa.</p>
         </div>
 
         <div class="timeline-item is-current reveal">
           <span class="timeline-dot"></span>
-          <div class="timeline-period" data-i18n="journey.item4.period">2022 a atual</div>
-          <div class="timeline-role" data-i18n-html="journey.item4.role">Community &amp; Social Media Manager, Relações Públicas</div>
+          <div class="timeline-period" data-i18n="journey.item4.period">Setembro 2022 a atual</div>
+          <div class="timeline-role" data-i18n-html="journey.item4.role">Community, Social &amp; Paid Media Manager, Relações Públicas e Coach</div>
           <div class="timeline-org">Food Addiction Reset Community (online)</div>
-          <p class="timeline-desc" data-i18n="journey.item4.desc">Gestão de comunidade online, análise de marketing digital, coaching entre pares, mentoria em bem-estar e facilitação de grupos de estudo.</p>
+          <p class="timeline-desc" data-i18n="journey.item4.desc">Planeamento de conteúdos e gestão de redes sociais de uma comunidade internacional online; planeamento e monitorização de campanhas de paid social; análise da atividade de marketing digital e das tendências de envolvimento da comunidade; facilitação de grupos de estudo online e de debates entre membros.</p>
         </div>
 
         <div class="timeline-item reveal">
           <span class="timeline-dot"></span>
-          <div class="timeline-period" data-i18n="journey.item5.period">Dezembro 2023 a 2024</div>
-          <div class="timeline-role" data-i18n="journey.item5.role">Consultora de Comunicação e Marketing</div>
+          <div class="timeline-period" data-i18n="journey.item5.period">Dezembro 2023 a Dezembro 2024</div>
+          <div class="timeline-role" data-i18n="journey.item5.role">Consultora de Comunicação e Marketing (projeto de transição)</div>
           <div class="timeline-org">Nimco Made4You</div>
           <p class="timeline-desc" data-i18n="journey.item5.desc">Desenvolvimento de estratégias de comunicação e marketing, gestão de redes sociais, relações públicas, copywriting e storytelling de marca.</p>
         </div>
@@ -288,7 +291,7 @@
           <div class="timeline-period" data-i18n="journey.item6.period">Outubro 2008 a Dezembro 2023</div>
           <div class="timeline-role" data-i18n="journey.item6.role">Diretora de Comunicação e Marketing</div>
           <div class="timeline-org">Nimco Made4You</div>
-          <p class="timeline-desc" data-i18n="journey.item6.desc">Direção estratégica e criativa da marca; organização de eventos internacionais, feiras e congressos; coordenação de lojas e vitrinismo; copywriting.</p>
+          <p class="timeline-desc" data-i18n="journey.item6.desc">Direção estratégica e criativa da marca em marketing, comunicação, conteúdos digitais e iniciativas comerciais; planos anuais de comunicação e marketing, incluindo orçamento e implementação; coordenação de profissionais comerciais, de design e de marketing; apoio às vendas ibéricas e ao desenvolvimento de novos negócios; redes sociais, marketing digital, copywriting e storytelling de marca; relações públicas e organização de feiras e congressos internacionais em vários mercados.</p>
         </div>
 
         <div class="timeline-item reveal">
@@ -296,7 +299,7 @@
           <div class="timeline-period" data-i18n="journey.item7.period">Janeiro 2001 a Setembro 2008</div>
           <div class="timeline-role" data-i18n="journey.item7.role">Diretora de Marketing</div>
           <div class="timeline-org">Colunex Portugal</div>
-          <p class="timeline-desc" data-i18n="journey.item7.desc">Direção de marketing e comunicação estratégica; execução do plano de comunicação e marketing; organização de eventos.</p>
+          <p class="timeline-desc" data-i18n="journey.item7.desc">Planeamento estratégico de marketing e comunicação; planos de comunicação e marketing em canais comerciais e de marca; organização de eventos e gestão dos materiais de apoio; coordenação da comunicação em loja, do visual merchandising e da apresentação ao cliente; redação de textos promocionais, comerciais e digitais; apoio à gestão do website e do e-commerce.</p>
         </div>
       </div>
     </div>
@@ -368,9 +371,9 @@
             <img src="./assets/portfolio-food-addiction.jpg" alt="Chamada de vídeo de apoio entre pares em ambiente acolhedor, representativa de uma comunidade online de bem-estar" width="640" height="480" loading="lazy" data-i18n-alt="portfolio.card3.imgAlt" />
           </div>
           <div class="portfolio-body">
-            <span class="portfolio-meta" data-i18n-html="portfolio.card3.meta">Food Addiction Reset Community (ARC) &middot; 2022 a atual</span>
-            <h3 data-i18n-html="portfolio.card3.title">Community &amp; Social Media Manager, Relações Públicas</h3>
-            <p data-i18n="portfolio.card3.desc">Gestão de comunidade online e redes sociais da Addiction Reset Community (ARC), liderada pela Dr.&nbsp;Joan Ifland, dedicada à recuperação da adição a alimentos processados. Produção de conteúdos, gestão de Paid Media e análise de marketing digital, a par de coaching entre pares, mentoria em bem-estar e facilitação de grupos de estudo para uma comunidade internacional.</p>
+            <span class="portfolio-meta" data-i18n-html="portfolio.card3.meta">Food Addiction Reset Community (ARC) &middot; Setembro 2022 a atual</span>
+            <h3 data-i18n-html="portfolio.card3.title">Community, Social &amp; Paid Media Manager, Relações Públicas e Coach</h3>
+            <p data-i18n-html="portfolio.card3.desc">Gestão de comunidade online e redes sociais da Addiction Reset Community (ARC), liderada pela Dr.&nbsp;Joan Ifland, dedicada à recuperação da adição a alimentos processados. Produção de conteúdos, gestão de Paid Media e análise de marketing digital, a par de coaching entre pares, mentoria em bem-estar e facilitação de grupos de estudo para uma comunidade internacional.</p>
             <div class="portfolio-links">
               <a class="portfolio-link" href="https://www.foodaddictionreset.com/" target="_blank" rel="noopener" data-i18n="portfolio.link.site">Site oficial</a>
               <a class="portfolio-link" href="https://www.facebook.com/foodaddictionreset/" target="_blank" rel="noopener">Facebook</a>
@@ -417,18 +420,15 @@
           <div class="skills-block reveal">
             <h3 data-i18n="skills.mainTitle">Competências principais</h3>
             <div class="skill-tags">
-              <span class="skill-tag" data-i18n="skills.tag1">Relações Públicas</span>
-              <span class="skill-tag" data-i18n="skills.tag2">Acolhimento</span>
-              <span class="skill-tag" data-i18n="skills.tag3">Consultoria em Comunicação e Marketing</span>
-              <span class="skill-tag" data-i18n="skills.tag4">Gestão de Marketing Digital</span>
-              <span class="skill-tag" data-i18n="skills.tag5">Paid Media</span>
-              <span class="skill-tag" data-i18n="skills.tag6">Social Media</span>
-              <span class="skill-tag" data-i18n="skills.tag7">Produção de Conteúdo</span>
-              <span class="skill-tag" data-i18n="skills.tag8">Copywriting e Storytelling</span>
-              <span class="skill-tag" data-i18n="skills.tag9">Formação e Educação</span>
-              <span class="skill-tag" data-i18n="skills.tag10">Coaching de Bem-Estar e Negócios</span>
-              <span class="skill-tag" data-i18n="skills.tag11">Gestão de Eventos</span>
-              <span class="skill-tag" data-i18n="skills.tag12">Cultura e Línguas Estrangeiras</span>
+              <span class="skill-tag" data-i18n-html="skills.tag1">Estratégia de Marketing e Comunicação</span>
+              <span class="skill-tag" data-i18n-html="skills.tag2">Posicionamento de Marca e Comunicação Corporativa</span>
+              <span class="skill-tag" data-i18n-html="skills.tag3">Marketing Digital, Paid Social e Estratégia de Conteúdo</span>
+              <span class="skill-tag" data-i18n-html="skills.tag4">Social Media e Gestão de Comunidades</span>
+              <span class="skill-tag" data-i18n-html="skills.tag5">Copywriting, Storytelling e Conteúdo Editorial</span>
+              <span class="skill-tag" data-i18n-html="skills.tag6">Relações Públicas, Eventos e Feiras</span>
+              <span class="skill-tag" data-i18n-html="skills.tag7">Parcerias Internacionais e Coordenação de Mobilidade</span>
+              <span class="skill-tag" data-i18n-html="skills.tag8">Experiência do Hóspede e Operações de Hospitalidade</span>
+              <span class="skill-tag" data-i18n-html="skills.tag9">Liderança de Equipas e Gestão de Stakeholders</span>
             </div>
           </div>
 
@@ -449,7 +449,7 @@
             <div class="lang-row"><span data-i18n="skills.lang2.name">Inglês</span><span class="lang-level" data-i18n="skills.lang2.level">Fluente</span></div>
             <div class="lang-row"><span data-i18n="skills.lang3.name">Francês</span><span class="lang-level" data-i18n="skills.lang3.level">Fluente</span></div>
             <div class="lang-row"><span data-i18n="skills.lang4.name">Espanhol</span><span class="lang-level" data-i18n="skills.lang4.level">Avançado</span></div>
-            <div class="lang-row"><span data-i18n="skills.lang5.name">Holandês</span><span class="lang-level" data-i18n="skills.lang5.level">Inicial</span></div>
+            <div class="lang-row"><span data-i18n="skills.lang5.name">Holandês</span><span class="lang-level" data-i18n="skills.lang5.level">A1</span></div>
           </div>
 
           <div class="side-panel reveal">
@@ -461,9 +461,9 @@
 
           <div class="side-panel reveal">
             <h3 data-i18n="skills.certsTitle">Certificações</h3>
-            <div class="edu-item"><strong data-i18n="skills.cert1.title">Certificação de Formador</strong><span>ENI Vila Nova de Gaia</span></div>
+            <div class="edu-item"><strong data-i18n="skills.cert1.title">Certificação de Formador (CCP)</strong><span>ENI Vila Nova de Gaia</span></div>
             <div class="edu-item"><strong>Deepak Chopra Coaching Certification Program</strong><span>Chopra Education · 2023</span></div>
-            <div class="edu-item"><strong>Food Addiction Reset Advocate</strong><span>Addiction Reset Community · 2022</span></div>
+            <div class="edu-item"><strong>Food Addiction Recovery Advocate</strong><span>Addiction Reset Community · 2022</span></div>
             <div class="edu-item"><strong data-i18n="skills.cert4.title">Marketing Digital Avançado</strong><span>EDIT · 2022</span></div>
           </div>
         </div>
